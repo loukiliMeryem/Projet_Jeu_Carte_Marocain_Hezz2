@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/hezz2Interface.jpg</file>
+        <file>../../../Downloads/aide.png</file>
+        <file>../../Bureau/carteSpecial/carte1.jpg</file>
+        <file>../../Bureau/carteSpecial/carte2.jpg</file>
+        <file>../../Bureau/carteSpecial/carte7.jpg</file>
+        <file>../../../Downloads/hezz2Interface1.jpg</file>
+        <file>../../../Downloads/table.jpg</file>
+    </qresource>
+</RCC>

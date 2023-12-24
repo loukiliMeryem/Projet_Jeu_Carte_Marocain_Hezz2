@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/gold.jpg</file>
+        <file>../../../Downloads/sword.jpg</file>
+        <file>../../../Downloads/stick.jpg</file>
+        <file>../../../Downloads/cup.jpg</file>
+        <file>../../../Downloads/cup1.jpg</file>
+        <file>../../../Downloads/gold1.jpg</file>
+        <file>../../../Downloads/stick1.jpg</file>
+        <file>../../../Downloads/sword1.jpg</file>
+        <file>../../../Downloads/gold7.jpg</file>
+        <file>../../../Downloads/cup7.jpg</file>
+        <file>../../../Downloads/stick7.jpg</file>
+        <file>../../../Downloads/sword7.jpg</file>
+        <file>../../../Downloads/cup2.jpg</file>
+        <file>../../../Downloads/gold2.jpg</file>
+        <file>../../../Downloads/sword2.jpg</file>
+        <file>../../../Downloads/stick2.jpg</file>
+    </qresource>
+</RCC>
